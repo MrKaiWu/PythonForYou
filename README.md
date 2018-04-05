@@ -3,6 +3,8 @@ A interactive Python tutorial for beginners. Most materials are presented in Jup
 
 Current progress: 5 Chapters out of planned 10
 
-Latest update: 2016.11.16
+Project starting date: 2017.10.01
 
-2018.04.05: uploaded to GitHub for the first time.
+Latest update: 2017.11.16
+
+2018.04.05, uploaded to GitHub for the first time.
